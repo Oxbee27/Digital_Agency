@@ -244,6 +244,9 @@
   .mr-30 {
     margin-right: calc(var(--spacing) * 30);
   }
+  .mr-35 {
+    margin-right: calc(var(--spacing) * 35);
+  }
   .mr-50 {
     margin-right: calc(var(--spacing) * 50);
   }
