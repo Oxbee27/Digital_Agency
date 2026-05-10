@@ -1,3 +1,5 @@
+I cloned this website as part of my classs task
+
 # SquareUp - Digital Agency Website
 
 A modern, responsive digital agency website built with **HTML**, **CSS**, and **Tailwind CSS**. SquareUp is a digital product studio that specializes in design, engineering, and project management services.
