@@ -1,4 +1,4 @@
-I cloned this website as part of my classs task
+I cloned this website as part of my class task
 
 # SquareUp - Digital Agency Website
 
