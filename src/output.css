@@ -546,8 +546,14 @@
   .px-12 {
     padding-inline: calc(var(--spacing) * 12);
   }
+  .px-20 {
+    padding-inline: calc(var(--spacing) * 20);
+  }
   .px-30 {
     padding-inline: calc(var(--spacing) * 30);
+  }
+  .px-40 {
+    padding-inline: calc(var(--spacing) * 40);
   }
   .py-1 {
     padding-block: calc(var(--spacing) * 1);
@@ -599,8 +605,20 @@
     --tw-font-weight: var(--font-weight-extrabold);
     font-weight: var(--font-weight-extrabold);
   }
+  .text-\[\#5f5a5a\] {
+    color: #5f5a5a;
+  }
+  .text-\[\#242424\] {
+    color: #242424;
+  }
+  .text-\[\#494747\] {
+    color: #494747;
+  }
   .text-\[\#D8FF99\] {
     color: #D8FF99;
+  }
+  .text-\[\#a19d9d\] {
+    color: #a19d9d;
   }
   .text-black {
     color: var(--color-black);
