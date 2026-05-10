@@ -492,6 +492,9 @@
   .bg-\[\#927700\] {
     background-color: #927700;
   }
+  .bg-\[\#\] {
+    background-color: #;
+  }
   .bg-white {
     background-color: var(--color-white);
   }
