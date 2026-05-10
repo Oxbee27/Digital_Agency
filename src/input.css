@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+
+
+@theme{
+
+--font-color-oxford-blue: #0B132B;
+--font-color-onyx: #1C2541;
+--font-ox:rgba(38, 38, 38, 1);
+
+}
