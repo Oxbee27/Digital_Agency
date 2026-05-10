@@ -292,6 +292,12 @@
   .table {
     display: table;
   }
+  .h-10 {
+    height: calc(var(--spacing) * 10);
+  }
+  .h-\[2\] {
+    height: 2;
+  }
   .h-\[2px\] {
     height: 2px;
   }
@@ -301,11 +307,20 @@
   .h-\[20px\] {
     height: 20px;
   }
+  .h-\[50px\] {
+    height: 50px;
+  }
+  .h-\[80px\] {
+    height: 80px;
+  }
   .h-\[300px\] {
     height: 300px;
   }
   .h-\[470px\] {
     height: 470px;
+  }
+  .h-screen {
+    height: 100vh;
   }
   .w-10 {
     width: calc(var(--spacing) * 10);
