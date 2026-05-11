@@ -384,6 +384,9 @@
   .border-\[\#2\] {
     border-color: #2;
   }
+  .border-\[\#645f5f\] {
+    border-color: #645f5f;
+  }
   .border-\[\#242424\] {
     border-color: #242424;
   }
@@ -392,6 +395,9 @@
   }
   .border-\[\#292929\] {
     border-color: #292929;
+  }
+  .border-\[\#494747\] {
+    border-color: #494747;
   }
   .border-\[\#\] {
     border-color: #;
@@ -453,6 +459,9 @@
   .px-5 {
     padding-inline: calc(var(--spacing) * 5);
   }
+  .px-6 {
+    padding-inline: calc(var(--spacing) * 6);
+  }
   .px-8 {
     padding-inline: calc(var(--spacing) * 8);
   }
@@ -467,6 +476,9 @@
   }
   .py-2 {
     padding-block: calc(var(--spacing) * 2);
+  }
+  .py-3 {
+    padding-block: calc(var(--spacing) * 3);
   }
   .py-4 {
     padding-block: calc(var(--spacing) * 4);
