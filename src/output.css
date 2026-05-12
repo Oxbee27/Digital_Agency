@@ -421,6 +421,9 @@
   .bg-\[url\(\'\/img\/b\.png\'\)\] {
     background-image: url('/img/b.png');
   }
+  .bg-\[url\(\'\/img\/overlay3\.png\'\)\] {
+    background-image: url('/img/overlay3.png');
+  }
   .bg-cover {
     background-size: cover;
   }
